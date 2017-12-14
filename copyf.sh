@@ -1,12 +1,9 @@
 #!/bin/bash
 
 CONFIGCASE="NATL025-GSL301"
-dirg='/ccc/scratch/cont003/gen0727/garciagi'
+dirg='/garciagi'
 
-#dirw='/ccc/work/cont003/gen0727/garciagi/pruebas'
-#diri='/ccc/scratch/cont003/gen0727/garciagi/tests'
-diri='/ccc/scratch/cont003/gen0727/molines/NATL025' #NATL025-GSL301.001-S/5d/1993'
-dirw='/ccc/scratch/cont003/gen0727/garciagi/SECTIONS'
+dirw='/garciagi/SECTIONS'
 
 endcase='.5d_section.nc'
 

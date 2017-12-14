@@ -6,7 +6,7 @@
 #MSUB -q standard
 #MSUB -o MKMMB.o%I
 #MSUB -e MKMMB.e%I
-#MSUB -A gen0727
+#MSUB -A 
 
 
 CONFIGCASE="NATL025.GSL301"

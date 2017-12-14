@@ -6,12 +6,11 @@
 #MSUB -q standard
 #MSUB -o census.o%I
 #MSUB -e census.e%I
-#MSUB -A gen0727
+#MSUB -A 
 
 
 CONFIGCASE="NATL025.GSL301"
 fityp="gridT"
-diri='/ccc/scratch/cont003/gen0727/garciagi/1d'
 
 
 echo 

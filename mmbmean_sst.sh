@@ -6,9 +6,7 @@
 #MSUB -q standard
 #MSUB -o MMBMEAN.o%I
 #MSUB -e MMBMEAN.e%I
-#MSUB -A gen0727
+#MSUB -A 
 
-diro='/ccc/scratch/cont003/gen0727/garciagi/1d'
-dirw='/ccc/work/cont003/gen0727/garciagi/pruebas'
 python ${dirw}/ssh_mean_sh.py > outsssh
 python ${dirw}/ssh_mean_shf.py >outssst

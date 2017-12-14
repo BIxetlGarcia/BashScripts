@@ -3,7 +3,7 @@
 
 CONFIGCASE="NATL025.GSL301"
 fityp="gridT"
-diri='/ccc/scratch/cont003/gen0727/garciagi/1d'
+diri='/ccc/scratch//garciagi/1d'
 
 #$(seq -f "%03g"  001 050 )
 

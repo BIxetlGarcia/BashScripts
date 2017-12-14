@@ -2,12 +2,10 @@
 echo 'module unload python'
 
 CONFIGCASE="NATL025-GSL301"
-dirg='/ccc/scratch/cont003/gen0727/garciagi'
 
-#diri='/ccc/scratch/cont003/gen0727/garciagi/tests'
-diri='/ccc/scratch/cont003/gen0727/molines/NATL025' #NATL025-GSL301.001-S/5d/1993'
-diro='/ccc/scratch/cont003/gen0727/garciagi/test_transp'
-dirw='/ccc/work/cont003/gen0727/garciagi/pruebas/test_broke'
+diri='/ccc/scratch//molines/NATL025' #NATL025-GSL301.001-S/5d/1993'
+diro='/ccc/scratch//garciagi/test_transp'
+dirw='/ccc/work//garciagi/pruebas/test_broke'
 #mkdir ${diri}/testout
 ##################################################
 # For each year, first one year
